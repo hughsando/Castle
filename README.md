@@ -7,6 +7,8 @@ The (an) original escape room game!  Choose your own way through the castle, and
 Originally written on an Apple ][ clone 40 years ago (1982? dates/ages are a little hazy) it stands today as one of the all time classics.  The code is unchanged (except for replacing the ctrl-D characters with variables) and includes all the original text, including YOU/YOUR dyslexia.
 
 
+![Castle Image](Castle.png)
+
 [Run it online now!](https://hughsando.github.io/Castle/apple2js.html#castle)
 
 Or, [download the disk image](https://github.com/hughsando/Castle/raw/main/dsk/castle.dsk) and run it for real.
